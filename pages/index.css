@@ -195,9 +195,10 @@
 }
 
 .form__input {
-  border: 1px solid #838383 4px;
+  border: 1px solid #838383;
   margin: 8px 0 32px;
   padding: 15px 20px;
+  border-radius: 4px;
 }
 
 .form__button {
