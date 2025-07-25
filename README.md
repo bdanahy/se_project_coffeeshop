@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I'd like to add an :active rule for the submit button. Hovering over it changes the style, but clicking on it should change it too.

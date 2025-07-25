@@ -38,7 +38,7 @@
   border: #1878dc;
   background-color: #1878dc;
   color: #fff;
-  transition: 1s ease;
+  transition: background-color 1s ease;
 }
 
 .form__button:hover {
